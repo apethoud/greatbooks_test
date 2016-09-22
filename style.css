@@ -5,13 +5,29 @@ body {
 .wrapper {
   width: 980px;
   margin: 0 auto;
-  background-color: #fff;
+  background-color: #D5DECC;
 }
 
 header {
   background-color: #aaa;
 }
 
+nav {
+  float: right;
+}
+
+nav ul li {
+  display: inline-block;
+}
+
 .book--left .book--right {
   height: 300px;
+}
+
+.book--left {
+  background-color: #4C433A;
+}
+
+.book--right {
+  background-color: #766859;
 }
