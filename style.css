@@ -1,0 +1,17 @@
+body {
+  background-color: #555;
+}
+
+.wrapper {
+  width: 980px;
+  margin: 0 auto;
+  background-color: #fff;
+}
+
+header {
+  background-color: #aaa;
+}
+
+.book--left .book--right {
+  height: 300px;
+}
